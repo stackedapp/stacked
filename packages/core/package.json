@@ -39,7 +39,7 @@
   "devDependencies": {
     "@meetalva/tools": "1.0.0",
     "@zeit/ncc": "^0.8.1",
-    "electron": "^4.0.0",
+    "electron": "^7.2.4",
     "electron-builder": "^20.38.4",
     "fixturez": "1.1.0",
     "ncp": "^2.0.0",
